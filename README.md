@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello, I'm Atharva!
 
-<!--
-**Atharva-cloud/Atharva-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Machine Learning Engineer with a focus on Computer Vision and Applied AI. Currently exploring LLMs and RAG.
 
-Here are some ideas to get you started:
+📍 **San Diego, California**  
+📧 **Email:** [contact@email](mailto:ayeola@ucsd.edu)  
+🔗 **LinkedIn:** [atharvayeola](https://linkedin.com/in/atharvayeola)  
+👨‍💻 **GitHub:** [atharvayeola](https://github.com/Atharva-cloud)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About Me 🌐
+I build for the end user's experience. With over 2 years of experience working at startups and research experience, I transform data into impactful solutions and experiences.
+
+
+### Professional Highlights 🌟
+- **Graduate Student Researcher** - University of California San Diego, La Jolla, US (March 2024 - Present)
+- **Research Intern (Computer Vision)** - Indian Institute of Technology, Patna, India (December 2022 - August 2023)
+- **Machine Learning Intern** - RhythmFlows Solutions Pvt. Ltd, Pune, India (August 2022 - April 2023)
+- **Computer Vision Intern** - Atomic Loops, Pune, India (january 2022 - June 2022)
+
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, Matlab, C/C++
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Huggingface, SpaCy
+- **Tools:** AWS, Docker, Git
+- **Specialties:** Applied Data Science, Computer Vision, LLMs, Reinforcement Learning
+
+### Education 🎓
+- **Masters in Machine Learning & Data Science**, University of California San Diego
+- **Bachelors in Electronics & Telecommunications**, Pune Institute of Computer Technology
+
+
+🔗 Let's ideate, innovate, and build cool experiences with AI. Reach out for collaborations or simply to chat!
+
