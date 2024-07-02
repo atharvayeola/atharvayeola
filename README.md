@@ -5,7 +5,7 @@
 📍 **San Diego, California**  
 📧 **Email:** [contact@email](mailto:ayeola@ucsd.edu)  
 🔗 **LinkedIn:** [atharvayeola](https://linkedin.com/in/atharvayeola)  
-👨‍💻 **GitHub:** [atharvayeola](https://github.com/Atharva-cloud)
+👨‍💻 **GitHub:** [atharvayeola](https://github.com/atharvayeola)
 
 
 ### About Me 🌐
