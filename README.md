@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Atharva!
 
-## 🚀 Machine Learning Engineer with a focus on Computer Vision and Applied AI. Currently exploring LLMs and RAG.
+## 🚀 Machine Learning Engineer with a focus on Computer Vision and Applied Data Science. Currently exploring LLMs and RAG.
 
 📍 **San Diego, California**  
 📧 **Email:** [contact@email](mailto:ayeola@ucsd.edu)  
