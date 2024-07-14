@@ -4,7 +4,7 @@
 
 📍 **San Diego, California**  
 📧 **Email:** [ayeola@ucsd.edu](mailto:ayeola@ucsd.edu)  
-🔗 **LinkedIn:** [atharvayeola](https://linkedin.com/in/atharvayeola)  
+🔗 **LinkedIn:** [in/atharvayeola](https://linkedin.com/in/atharvayeola)  
 👨‍💻 **GitHub:** [atharvayeola](https://github.com/atharvayeola)
 
 
