@@ -9,7 +9,7 @@
 
 
 ### About Me 🌐
-I build for the end user's experience. With over 2 years of experience working at startups and extensive research experience, I transform data into impactful solutions and experiences.
+I build for the end user's experience. With over 2 years of experience working at startups and extensive research experience, I aim transform data into impactful solutions and experiences.
 
 
 ### Professional Highlights 🌟
