@@ -3,7 +3,7 @@
 ## 🚀 Machine Learning Engineer with a focus on Computer Vision and Applied Data Science. Currently exploring LLMs and RAG.
 
 📍 **San Diego, California**  
-📧 **Email:** [ayeola@ucsd.edu](mailto:ayeola@ucsd.edu)  
+📧 **Email:** [atharvayeola12gmail.com](mailto:atharvayeola12@gmail.com)  
 🔗 **LinkedIn:** [in/atharvayeola](https://linkedin.com/in/atharvayeola)  
 👨‍💻 **GitHub:** [atharvayeola](https://github.com/atharvayeola)
 
