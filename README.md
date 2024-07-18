@@ -7,6 +7,7 @@
 📧 **Email:** [atharvayeola12gmail.com](mailto:atharvayeola12@gmail.com)  
 🔗 **LinkedIn:** [in/atharvayeola](https://linkedin.com/in/atharvayeola)  
 👨‍💻 **GitHub:** [atharvayeola](https://github.com/atharvayeola)
+
 ✍️ **X(fka Twitter):** [atharva](https://x.com/atharva0012)
 
 🌐 **Website** [atharva-yeola](https://atharva-yeola.netlify.app/)
