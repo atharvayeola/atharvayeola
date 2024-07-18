@@ -6,7 +6,7 @@
 📧 **Email:** [atharvayeola12gmail.com](mailto:atharvayeola12@gmail.com)  
 🔗 **LinkedIn:** [in/atharvayeola](https://linkedin.com/in/atharvayeola)  
 👨‍💻 **GitHub:** [atharvayeola](https://github.com/atharvayeola)
-
+🌐 **Website** [atharva-yeola](https://atharva-yeola.netlify.app/)
 
 ### About Me 🌐
 I build for the end user's experience. With over 2 years of experience working at startups and extensive research experience, I aim to transform data into impactful solutions and experiences.
