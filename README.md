@@ -18,7 +18,7 @@ I build for the end user's experience. With over 2 years of experience working a
 
 ### Professional Highlights 🌟
 - **Graduate Student Researcher** - Qualcomm Institute - UC San Diego division of Calit2, La Jolla, US (July 2024 - Present)
-- **Graduate Student Researcher** - University of California San Diego, La Jolla, US (March 2024 - July 2024)
+- **Graduate Student Researcher** - University of California San Diego, La Jolla, US (March 2024 - June 2024)
 - **Research Intern (Computer Vision)** - Indian Institute of Technology, Patna, India (December 2022 - August 2023)
 - **Machine Learning Intern** - RhythmFlows Solutions Pvt. Ltd, Pune, India (August 2022 - April 2023)
 - **Computer Vision Intern** - Atomic Loops, Pune, India (January 2022 - June 2022)
