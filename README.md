@@ -3,7 +3,7 @@
 ## 🚀 Machine Learning Engineer with a focus on Computer Vision and Applied Data Science. Currently exploring LLMs and RAG.
 
 📍 **San Diego, California**  
-🌐 **Website** [atharva-yeola](https://atharva-yeola.netlify.app/)
+🌐 **Website** [atharva-yeola](https://atharva-yeola.netlify.app/) 
 📧 **Email:** [atharvayeola12gmail.com](mailto:atharvayeola12@gmail.com)  
 🔗 **LinkedIn:** [in/atharvayeola](https://linkedin.com/in/atharvayeola)  
 👨‍💻 **GitHub:** [atharvayeola](https://github.com/atharvayeola)
