@@ -33,7 +33,7 @@
 
 ### 🤝 Open to Collaborate On
 - Early‑stage product‑analytics frameworks  
-- Reproducible A/B‑test pipelines  
+- Reproducible A/B‑test or any other causal experimentation (synthetic control, Propensity Score Matching, counterfactual analysis, etc.) pipelines  
 - Public‑interest data projects (health, safety, policy)  
 
 ---
