@@ -232,8 +232,6 @@ Technologies: Diffusion-LoRA, StyleGAN2, KID/TSTR Metrics
 
 <div align="center">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvayeola&show_icons=true&theme=radical)
-  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvayeola&layout=compact&theme=radical)
 
 </div>
