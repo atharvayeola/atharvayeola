@@ -249,7 +249,6 @@ I'm always excited to collaborate on projects that make a real-world impact! Whe
 **📫 Reach out to me**:
 - 📧 Email: atharvayeola12@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/atharvayeola](https://linkedin.com/in/atharvayeola)
-- 📱 Phone: +1 (858) 220-3508
 
 ---
 
