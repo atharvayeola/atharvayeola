@@ -12,7 +12,7 @@ I'm a **Machine Learning Data Scientist** who loves shipping end-to-end AI syste
 
 **BenchAgent** — An [MCP-compliant agent](https://github.com/atharvayeola/model_eval_agent) that runs end-to-end evaluation pipelines comparing GPT-4o-mini, Claude 3 Haiku, and open models. Features 100% prediction logging to JSON/SQLite and a FastAPI-triggered React cockpit for reproducible experiments.
 
-**Waldo** — Open-sourced pipeline that flags adverse events in unstructured social media text. Fine-tuned RoBERTa on 360K+ Reddit posts to detect rare-class health signals, contributing to our [JAMA Internal Medicine publication](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830019) on gambling addiction trends.
+**Waldo** — Open-sourced pipeline that flags adverse events in unstructured social media text. Fine-tuned RoBERTa on 360K+ Reddit posts to detect rare-class health signals, research accepted at PLOS Digital.
 
 **Text Summarization Pipeline** — End-to-end summarizer with adjustable decoding, ROUGE evaluation harness, and CI/CD deployment on AWS. Built with Hugging Face, Flask/FastAPI, and Docker for audit-ready comparisons.
 
