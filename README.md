@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-I'm a **Data Scientist & Engineer** with a passion for transforming complex data into actionable insights that drive real-world impact. Currently pursuing my **MS in Data Science & Machine Learning at UC San Diego**, I specialize in building end-to-end data solutions that span from causal inference to production-ready ML systems.
+I'm a **Machine Learning Data Scientist** with a passion for transforming complex data into actionable insights that drive real-world impact. Recently graduated with a Masters degree in Machine Learning & Data Science from UC San Diego, I specialize in building end-to-end AI solutions that span from causal inference to production-ready ML systems.
 
-**🎯 What I Do**: From quantifying nationwide behavioral shifts to deploying real-time computer vision pipelines, I turn data into action through impact-focused experimentation and intuitive insight delivery.
+**🎯 What I'm doing currently**: Exploring AI agents -- so basically fine tuning my OOP skills ;)
 
 ---
 
@@ -23,19 +23,16 @@ I'm a **Data Scientist & Engineer** with a passion for transforming complex data
 <td width="50%">
 
 ### 🤖 **Agentic AI & LLMs**
-- **BenchAgent**: MCP-compliant LangChain agent with FastAPI/React cockpit
-- **Waldo**: Open-sourced LLM tool for adverse event detection
-- Fine-tuned RoBERTa on 360K+ Reddit posts with custom evaluation scripts
-- Automated reproducible benchmarks for GPT-4o-mini, Claude 3 Haiku, and GGUF
+- **[BenchAgent]([url](https://github.com/atharvayeola/model_eval_agent))**: MCP-compliant LangChain agent with FastAPI/React cockpit --> Automated reproducible benchmarks for GPT-4o-mini, Claude 3 Haiku, and GGUF
+- **Waldo**: [Open-sourced]([url](https://github.com/WALDO-AE-DETECTION/WALDO)) LLM tool for adverse event detection --> Fine-tuned a SLM on 300K+ social media data
 
 </td>
 <td width="50%">
 
 ### 👁️ **Computer Vision**
-- **RetailLens**: YOLOv8 + SuperGlue real-time product detection (80% mAP)
-- **Traffic Sign Detection**: Deep ensemble (ViT + EfficientNet) with 9% F1 improvement
-- **MediSyn-Vision**: Diffusion-LoRA + StyleGAN2 for medical image synthesis
-- Real-time conveyor monitoring with 98% detection precision
+- **[RetailLens]([url](https://github.com/atharvayeola/retail-vision-enhancement))**: YOLOv8 + SuperGlue real-time product detection (**80% mAP**)
+- **Traffic Sign Detection**: Handling long-tail edge-cases in self-driving vehicles ([IEEE publication]([url](https://ieeexplore.ieee.org/document/10782104)))
+- **[MediSyn-Vision]([url](https://github.com/atharvayeola/SynMedVision))**: Diffusion-LoRA + StyleGAN2 for generating synthetic images for medical applications
 
 </td>
 </tr>
@@ -44,9 +41,9 @@ I'm a **Data Scientist & Engineer** with a passion for transforming complex data
 
 ### 📊 **Data Science & Analytics**
 - **Causal Inference**: Synthetic control methods for policy impact analysis
-- **A/B Testing**: Led experiments across 20K+ user sessions with 33% CTR lifts
-- **Recommender Systems**: Context-aware music recommendations (18% NDCG boost)
-- **Public Health Analytics**: HIVTrends.org dashboard adopted by health partners
+- **A/B Testing**: Led experiments across medium scale user sessions data with significant KPI lifts
+- **Recommender Systems**: Developed a 0 -> 1 Context-aware music recommendation system
+- **Public Health Analytics**: Real-time [HIVTrends.org]([url](https://hivtrends.org/)) dashboard adopted by health partners
 
 </td>
 <td>
@@ -68,21 +65,21 @@ I'm a **Data Scientist & Engineer** with a passion for transforming complex data
 ### 🏥 **Public Health Research** | *Qualcomm Institute, UC San Diego*
 - **Gambling Addiction Study**: Quantified 23% nationwide increase post-sports betting legalization using synthetic control methods
 - **HIV Prevention Dashboard**: Created live tracking system reducing ad-hoc data pulls by ~50%
-- **Publication**: Authored statistical investigation in *JAMA Internal Medicine* (4% acceptance rate)
+- **Publication**: Authored statistical investigation in *[JAMA Internal Medicine]([url](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830019?guestAccessKey=5a4cf26e-a285-412f-9375-dcb452576484&utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_content=tfl&utm_term=021725))* (4% acceptance rate)
 
 ### 🎵 **Mental Health Tech** | *RhythmFlows Solutions*
 - **Music Therapy AI**: Collaborated with psychiatrists to curate 75 seed tracks for context-aware recommendations
 - **Production ML**: Deployed scalable recommender on AWS SageMaker with continuous training
-- **Impact**: 18% NDCG improvement, 33% CTR increase, 20% longer session duration
+- **Impact**: 30% aggregate improvement in KPIs
 
 ### 🏭 **Computer Vision in Retail** | *Atomic Loops*
 - **Real-time Detection**: YOLOv5-based conveyor monitoring system
-- **Business Impact**: 30% customer footfall increase, 12% MoM revenue boost, 5x food waste reduction
+- **Business Impact**: 12% MoM revenue boost, 5x reduction in food waste
 - **Cross-functional Leadership**: Synchronized model latency with hardware/ops teams
 
 ### 🧬 **Scientific Data Management** | *San Diego Natural History Museum*
-- **Biodiversity Analytics**: Transformed 2M+ specimen records from MS Access to unified MySQL schema
-- **Performance Optimization**: 40% pipeline error reduction, 1.5x query performance improvement
+- **Biodiversity Analytics**: Led the migration of 2M+ specimen records from MS Access to unified MySQL schema
+- **Performance Optimization**: 40% pipeline error reduction, 10x query performance improvement
 
 ---
 
@@ -90,23 +87,22 @@ I'm a **Data Scientist & Engineer** with a passion for transforming complex data
 
 ### 🤖 **Agentic AI & LLMs**
 
-#### **BenchAgent** | *MCP-Compliant LLM Evaluation Platform*
+#### **[BenchAgent]([url](https://github.com/atharvayeola/model_eval_agent))** | *MCP-Compliant LLM Evaluation Platform*
 ```python
 # Automated Model Benchmarking with Real-time Results
-Technologies: LangChain, MCP, FastAPI, React, SQLite
+Technologies: LangChain, MCP, FastAPI, React
 ```
 - **What**: End-to-end evaluation pipelines comparing GPT-4o-mini, Claude 3 Haiku, and GGUF models
 - **Impact**: 100% prediction logging, reproducible benchmarks, <30s evaluation kickoff
-- **Status**: Active development, shipping soon
 
 #### **Waldo** | *Adverse Event Detection in Social Media*
 ```python
-# Fine-tuned NLP for Public Health Monitoring
+# Fine-tuned SLM (RoBERTa) for pharamcovigilance
 Technologies: PyTorch, RoBERTa, Custom Evaluation Harness
 ```
 - **Experience Project**: Fine-tuned RoBERTa on 360K+ Reddit posts for rare-class detection
-- **Impact**: Quantified 23% nationwide increase in gambling addiction signals
-- **Research**: Contributed to JAMA Internal Medicine publication (4% acceptance rate)
+- **Impact**: Quantified more than 22K adverse events and reduced GPT-3.5 hallucinations by 57%
+- **Research**: Paper accepted in PLOS Digital Health (_publication soon_)
 
 ### 👁️ **Computer Vision**
 
@@ -168,7 +164,7 @@ Technologies: PySpark, SQLite, Star Schema, Dash
 Technologies: dbt, MySQL, Airflow, CI/CD
 ```
 - **Experience Project**: Unified 2M+ specimen records from MS Access to MySQL
-- **Performance**: 40% fewer pipeline errors, 1.5x faster curator queries
+- **Performance**: 40% fewer pipeline errors, 10x faster curator queries
 - **Impact**: Enabled biodiversity analytics across 6+ scientific departments
 
 ### 🔤 **Natural Language Processing**
@@ -201,7 +197,7 @@ Technologies: Diffusion-LoRA, StyleGAN2, KID/TSTR Metrics
 **🎓 BE Electronics & Telecommunication** | *Pune Institute of Computer Technology* (2019-2023)
 
 **📚 Research Publications**:
-- *JAMA Internal Medicine*: Statistical investigation on gambling addiction trends
+- *[JAMA Internal Medicine]([url](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830019?guestAccessKey=5a4cf26e-a285-412f-9375-dcb452576484&utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_content=tfl&utm_term=021725))*: Statistical investigation on gambling addiction trends
 - *IEEE Xplore (CVMI 2024)*: Novel study on occluded traffic sign detection
 
 ---
