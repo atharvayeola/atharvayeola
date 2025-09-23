@@ -238,7 +238,7 @@ Technologies: Diffusion-LoRA, StyleGAN2, KID/TSTR Metrics
 
 I'm always excited to collaborate on projects that make a real-world impact! Whether it's:
 
-- 🔬 **Research Collaboration**: Causal inference, ML applications in public health
+- 🔬 **Research Collaboration**: Causal inference, Applied ML and AI in domains like healthcare, finance
 - 💼 **Industry Projects**: End-to-end data solutions, ML productionization
 - 🎓 **Knowledge Sharing**: Mentoring, technical discussions, best practices
 
@@ -247,11 +247,3 @@ I'm always excited to collaborate on projects that make a real-world impact! Whe
 - 💼 LinkedIn: [linkedin.com/in/atharvayeola](https://linkedin.com/in/atharvayeola)
 
 ---
-
-<div align="center">
-  
-  *"From modeling nationwide behavior shifts to deploying data pipelines in production, I turn data into action with impact-focused experimentation and intuitive insight delivery."*
-  
-  ⭐️ **Star my repositories if you find them helpful!** ⭐️
-
-</div>
